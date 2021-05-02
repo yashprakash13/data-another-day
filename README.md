@@ -1,8 +1,40 @@
-# Data Another Day
-A master repository of all Data Science projects, concepts, tools and resources that I learn and write about on my blog.
+<h1 align="center">
+Data Another Day
+</h1>
+<h4 align="center">A master repository of all Data Science projects, concepts, tools and resources that I learn and write about on my blog.
+</h4>
+
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.6%2C%203.7%2C%203.8%2C%203.9-green?style=for-the-badge"
+         alt="Python versions">
+  </a>
+  <a href="https://github.com/yashprakash13">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge"
+         alt="My GitHub">
+  </a>
+  <a href="https://medium.com/@ipom">
+    <img src="https://img.shields.io/badge/Medium-Blog-orange?style=for-the-badge"
+         alt="My Medium Data Science Blog">
+  </a><br/>
+</p>
 
 ---
-## ML Mini Projects For A Quick Learning Experience...
+
+## Contents
+
+1. [ML Mini Projects Because Crash Courses Are The Best...](https://github.com/yashprakash13/data-another-day#ml-mini-projects-for-a-quick-learning-experience)
+2. [Python Cool Concepts Because Python Is Cool...](#python-cool-concepts-because-python-is-cool)
+3. [ML Fundamentals Because Everybody Starts Somewhere...](#ml-fundamentals-because-everybody-starts-somewhere)
+4. [A Data Scientist's Life Hacks](#a-data-scientists-life-hacks)
+5. [Fancy Little Data Thingies To Stimulate The Mind...](#fancy-little-data-thingies-to-stimulate-the-mind)
+6. [About Those Code Editors...hmmm](#about-those-code-editorshmmm)
+7. [Bash Essential Tricks To Make You Even More Lazy](#bash-essential-tricks-to-make-you-even-more-lazy)
+8. [End-To-End ML/DL Projects - These Took A Lot Of Time And Effort, yes...](#end-to-end-mldl-projects---these-took-a-lot-of-time-and-effort-yes)
+
+---
+
+## ML Mini Projects Because Crash Courses Are The Best...
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
