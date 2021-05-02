@@ -24,7 +24,7 @@ Data Another Day
 ## Contents
 
 1. [ML Mini Projects Because Crash Courses Are The Best...](https://github.com/yashprakash13/data-another-day#ml-mini-projects-for-a-quick-learning-experience)
-2. [Python Cool Concepts Because Python Is Cool...](#python-cool-concepts-because-python-is-cool)
+2. [Python Cool Concepts Because Knowing Them Is Cool...](#python-cool-concepts-because-knowing-them-is-cool)
 3. [ML Fundamentals Because Everybody Starts Somewhere...](#ml-fundamentals-because-everybody-starts-somewhere)
 4. [A Data Scientist's Life Hacks](#a-data-scientists-life-hacks)
 5. [Fancy Little Data Thingies To Stimulate The Mind...](#fancy-little-data-thingies-to-stimulate-the-mind)
@@ -44,7 +44,7 @@ Data Another Day
 | Basic Sentiment Text Classification on Covid-19 Tweets with Fastai | [Code](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/Text%20Sentiment%20Classification(Covid-19%20Tweets).ipynb) | [Blog](https://towardsdatascience.com/text-classification-in-just-20-lines-of-code-8baf9c2a0a53?source=your_stories_page-------------------------------------)
 
 
-## Python Cool Concepts Because Python Is Cool...
+## Python Cool Concepts Because Knowing Them Is Cool...
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
