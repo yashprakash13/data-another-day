@@ -3,6 +3,7 @@ Data Another Day
 </h1>
 <h4 align="center">A master repository of all Data Science projects, concepts, tools and resources that I learn and write about on my blog.
 </h4>
+<h5 align="center"> (Updated Regularly) </h5>
 
 <p align="center">
   <a href="https://www.python.org">
