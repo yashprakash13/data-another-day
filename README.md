@@ -31,11 +31,21 @@ A master repository of all Data Science projects, concepts, tools and resources 
 | Image Classification-Progressive Resizing Approach with Fastai  | [Notebook](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/RPC-Learning%20Rate%2C%20Progressive%20Resizing%20Approach.ipynb) | [Blog](https://towardsdatascience.com/how-to-make-a-state-of-the-art-model-with-fastai-bd11e168b214?source=your_stories_page-------------------------------------) |
 
 
-## Data Scientist's Life Hacks
+## A Data Scientist's Life Hacks
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
 | Set Up Your Machine For Data Science The Nice Way  |  | [Blog](https://towardsdatascience.com/complete-guide-to-setting-up-a-new-python-environment-for-data-science-a4df585e7e0d?source=your_stories_page-------------------------------------)
+| Dockerize an ML Project |  | [Blog](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1?source=your_stories_page-------------------------------------) |
+| Creating A Quick Web App From ML Project With Streamlit |  | [Blog](https://towardsdatascience.com/a-guide-to-streamlit-frontend-for-data-science-made-simpler-c6dda54e3183?source=your_stories_page-------------------------------------) | 
+| Deploying ML App with FastAPI | [Code](https://gist.github.com/yashprakash13/998e7322769ce3257b9f8dae786c0e36) | [Blog](https://towardsdatascience.com/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21?source=your_stories_page-------------------------------------) |
+
+
+## Fancy Little Data Collection Projects To Stimulate The Mind
+
+| Topic   |      Code      |  Article |
+|----------|:-------------:|------:|
+| Making a YouTube Video Comments Dataset With Google's API |  | [Tutorial](https://medium.com/this-code/how-to-make-a-youtube-video-comments-dataset-with-the-googles-python-api-34cf32a14d16?source=your_stories_page-------------------------------------) |
 
 
 
@@ -52,4 +62,6 @@ A master repository of all Data Science projects, concepts, tools and resources 
 | Image Classifier Web App With Fastai, Pytorch and Streamlit    | [Repo](https://github.com/yashprakash13/RockPaperScissorsFastAI#medium-article-series)   | [Article Series](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 | Insight-The YouTube Comments Analyser | [Repo](https://github.com/yashprakash13/Insight)  |
 | | |
+
+
 
