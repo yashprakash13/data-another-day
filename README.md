@@ -2,7 +2,7 @@
 A master repository of all Data Science projects, concepts, tools and resources that I learn and write about on my blog.
 
 ---
-## ML Mini Projects
+## ML Mini Projects For A Quick Learning Experience...
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
@@ -12,7 +12,7 @@ A master repository of all Data Science projects, concepts, tools and resources 
 | Basic Sentiment Text Classification on Covid-19 Tweets with Fastai | [Code](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/Text%20Sentiment%20Classification(Covid-19%20Tweets).ipynb) | [Blog](https://towardsdatascience.com/text-classification-in-just-20-lines-of-code-8baf9c2a0a53?source=your_stories_page-------------------------------------)
 
 
-## Python Cool Concepts
+## Python Cool Concepts Because Python Is Cool...
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
@@ -21,7 +21,7 @@ A master repository of all Data Science projects, concepts, tools and resources 
 | Python Collections Guide | [Notebook](https://github.com/yashprakash13/Python-Collections-Playground/blob/master/Python%20Collections%20Playground.ipynb) | [Blog](https://medium.com/this-code/python-collections-the-in-depth-guide-to-those-special-data-structures-8f03d537f9d4?source=your_stories_page-------------------------------------)  |
 | Python Lists Tutorial, Difference From Regular Arrays  | | [Blog](https://medium.com/this-code/data-structures-in-python-the-dynamic-arrays-disguised-as-lists-134c42b784c9?source=your_stories_page-------------------------------------)
 
-## ML Fundamentals
+## ML Fundamentals Because Everybody Starts Somewhere...
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
@@ -41,22 +41,30 @@ A master repository of all Data Science projects, concepts, tools and resources 
 | Deploying ML App with FastAPI | [Code](https://gist.github.com/yashprakash13/998e7322769ce3257b9f8dae786c0e36) | [Blog](https://towardsdatascience.com/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21?source=your_stories_page-------------------------------------) |
 
 
-## Fancy Little Data Collection Projects To Stimulate The Mind
+## Fancy Little Data Thingies To Stimulate The Mind...
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
 | Making a YouTube Video Comments Dataset With Google's API |  | [Tutorial](https://medium.com/this-code/how-to-make-a-youtube-video-comments-dataset-with-the-googles-python-api-34cf32a14d16?source=your_stories_page-------------------------------------) |
+| A Collection of 26 Datasets I've Used Often While Learning |  | [Blog](https://towardsdatascience.com/26-datasets-for-your-data-science-projects-658601590a4c?source=your_stories_page-------------------------------------) | 
 
 
+## About Those Code Editors...hmmm
+
+| Topic   |      Code      |  Article |
+|----------|:-------------:|------:|
+| 7 Awesome Jupyter Utlities To Start Using Now  |  | [Blog](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b?source=your_stories_page-------------------------------------)  |
 
 
-## Bash Tips and Tricks
+## Bash Essential Tricks To Make You Even More Lazy
+
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
 | Quick Bash Automation To Create a New ML App | [Script](https://github.com/yashprakash13/handy-bash-scripts/blob/master/createmlapp.sh)   | [Blog](#)
 
 
-## End-To-End ML/DL Projects
+## End-To-End ML/DL Projects - These Took A Lot Of Time And Effort, yes... 
+
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
 | Image Classifier Web App With Fastai, Pytorch and Streamlit    | [Repo](https://github.com/yashprakash13/RockPaperScissorsFastAI#medium-article-series)   | [Article Series](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
