@@ -102,6 +102,3 @@ Data Another Day
 | Image Classifier Web App With Fastai, Pytorch and Streamlit    | [Repo](https://github.com/yashprakash13/RockPaperScissorsFastAI#medium-article-series)   | [Article Series](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 | Insight-The YouTube Comments Analyser | [Repo](https://github.com/yashprakash13/Insight)  |
 | | |
-
-
-
