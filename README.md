@@ -51,7 +51,8 @@ Data Another Day
 | Big O in Python    |    | [Blog](https://medium.com/this-code/big-o-notation-the-intuition-behind-283ea8d7a540?source=your_stories_page-------------------------------------)
 | Args and Kwargs Tutorial | [Notebook](https://github.com/yashprakash13/Python-Cool-Concepts/blob/main/Args%20and%20Kwargs%20in%20Python.ipynb)   | [Blog](https://towardsdatascience.com/args-and-kwargs-in-python-function-calling-made-easy-acfe736f988a?source=your_stories_page-------------------------------------)
 | Python Collections Guide | [Notebook](https://github.com/yashprakash13/Python-Collections-Playground/blob/master/Python%20Collections%20Playground.ipynb) | [Blog](https://medium.com/this-code/python-collections-the-in-depth-guide-to-those-special-data-structures-8f03d537f9d4?source=your_stories_page-------------------------------------)  |
-| Python Lists Tutorial, Difference From Regular Arrays  | | [Blog](https://medium.com/this-code/data-structures-in-python-the-dynamic-arrays-disguised-as-lists-134c42b784c9?source=your_stories_page-------------------------------------)
+| Python Lists Tutorial, Difference From Regular Arrays  | | [Blog](https://medium.com/this-code/data-structures-in-python-the-dynamic-arrays-disguised-as-lists-134c42b784c9?source=your_stories_page-------------------------------------) | 
+| Python App Level Logging Template To Use in Any Project | [Code](https://github.com/yashprakash13/Python-Cool-Concepts/tree/main/logging_template) | [Blog](#) | 
 
 ## ML Fundamentals Because Everybody Starts Somewhere...
 
