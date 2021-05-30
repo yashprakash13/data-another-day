@@ -1,6 +1,5 @@
-<h1 align="center">
-Data Another Day
-</h1>
+<p align="center"><img width=43.5% src="https://github.com/yashprakash13/data-another-day/blob/main/Data%20Another%20Day.png"></p>
+
 <h4 align="center">A master repository of all Data Science projects, concepts, tools and resources that I learn and write about on my blog. Updated every week.
 </h4>
 
