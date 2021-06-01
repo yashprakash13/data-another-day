@@ -86,7 +86,7 @@
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
 | 7 Awesome Jupyter Utlities To Start Using Now  |  | [Blog](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b?source=your_stories_page-------------------------------------)  |
-| The Nice Way To Use Docker With VSCode | [Gist](https://gist.github.com/yashprakash13/fc08dad6adb993147f8750cca63beb98) |  [Blog](#)
+| The Nice Way To Use Docker With VSCode | [Gist](https://gist.github.com/yashprakash13/fc08dad6adb993147f8750cca63beb98) |  [Blog](https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b?source=your_stories_page-------------------------------------)
 
 
 ## Bash Essential Tricks To Make You Even More Lazy
