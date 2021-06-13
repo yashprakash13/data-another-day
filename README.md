@@ -52,6 +52,7 @@
 | Python Collections Guide | [Notebook](https://github.com/yashprakash13/Python-Collections-Playground/blob/master/Python%20Collections%20Playground.ipynb) | [Blog](https://medium.com/this-code/python-collections-the-in-depth-guide-to-those-special-data-structures-8f03d537f9d4?source=your_stories_page-------------------------------------)  |
 | Python Lists Tutorial, Difference From Regular Arrays  | | [Blog](https://medium.com/this-code/data-structures-in-python-the-dynamic-arrays-disguised-as-lists-134c42b784c9?source=your_stories_page-------------------------------------) | 
 | Python App Level Logging Template To Use in Any Project | [Code](https://github.com/yashprakash13/Python-Cool-Concepts/tree/main/logging_template) | [Blog](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540) | 
+| Using Environment variables in Python |   | [Blog](#)  | 
 
 ## ML Fundamentals Because Everybody Starts Somewhere...
 
