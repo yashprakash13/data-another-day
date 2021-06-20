@@ -94,7 +94,8 @@
 
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
-| Quick Bash Automation To Create a New ML App | [Script](https://github.com/yashprakash13/handy-bash-scripts/blob/master/createmlapp.sh)   | [Blog](#)
+| Quick Bash Automation To Create a New ML App | [Script](https://github.com/yashprakash13/handy-bash-scripts/blob/master/createmlapp.sh)   | [Blog](https://towardsdatascience.com/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe?source=your_stories_page-------------------------------------)
+| The Easy Way To Prettify the Terminal | [Code](https://github.com/yashprakash13/handy-bash-scripts/tree/master/my_custom_terminal_style)  | [Blog](#)
 
 
 ## End-To-End ML/DL Projects - These Took A Lot Of Time And Effort, yes... 
