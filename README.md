@@ -52,7 +52,9 @@
 | Python Collections Guide | [Notebook](https://github.com/yashprakash13/Python-Collections-Playground/blob/master/Python%20Collections%20Playground.ipynb) | [Blog](https://medium.com/this-code/python-collections-the-in-depth-guide-to-those-special-data-structures-8f03d537f9d4?source=your_stories_page-------------------------------------)  |
 | Python Lists Tutorial, Difference From Regular Arrays  | | [Blog](https://medium.com/this-code/data-structures-in-python-the-dynamic-arrays-disguised-as-lists-134c42b784c9?source=your_stories_page-------------------------------------) | 
 | Python App Level Logging Template To Use in Any Project | [Code](https://github.com/yashprakash13/Python-Cool-Concepts/tree/main/logging_template) | [Blog](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540) | 
-| Using Environment variables in Python |   | [Blog](#)  | 
+| Using Environment variables in Python |   | [Blog](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540?source=your_stories_page-------------------------------------)  | 
+
+
 
 ## ML Fundamentals Because Everybody Starts Somewhere...
 
@@ -62,6 +64,7 @@
 | Image Classification Basics- The Pixel Similarity Concept    | [Notebook](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/RPC-%20Pixel%20sim..ipynb)    | [Blog](https://towardsdatascience.com/fastai-exploring-the-training-process-the-pixel-similarity-approach-74bbdb844509?source=your_stories_page-------------------------------------) |
 | Stochastic Gradient Descent From Scratch With Fastai | [Notebook](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/RPC%20SGD.ipynb) | [Blog](https://towardsdatascience.com/fastai-multi-class-classification-with-stochastic-gradient-descent-from-scratch-8410fe3fea22?source=your_stories_page-------------------------------------) |
 | Image Classification-Progressive Resizing Approach with Fastai  | [Notebook](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/RPC-Learning%20Rate%2C%20Progressive%20Resizing%20Approach.ipynb) | [Blog](https://towardsdatascience.com/how-to-make-a-state-of-the-art-model-with-fastai-bd11e168b214?source=your_stories_page-------------------------------------) |
+| Pandas Dates Cheatsheet/quick reference quide | [Notebook](https://github.com/yashprakash13/Python-Cool-Concepts/blob/main/pandas_dates_exploration.ipynb) | [Blog](#) |  
 
 
 ## A Data Scientist's Life Hacks
@@ -95,7 +98,7 @@
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
 | Quick Bash Automation To Create a New ML App | [Script](https://github.com/yashprakash13/handy-bash-scripts/blob/master/createmlapp.sh)   | [Blog](https://towardsdatascience.com/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe?source=your_stories_page-------------------------------------)
-| The Easy Way To Prettify the Terminal | [Code](https://github.com/yashprakash13/handy-bash-scripts/tree/master/my_custom_terminal_style)  | [Blog](#)
+| The Easy Way To Prettify the Terminal | [Code](https://github.com/yashprakash13/handy-bash-scripts/tree/master/my_custom_terminal_style)  | [Blog](https://towardsdatascience.com/the-easy-way-to-prettify-your-terminal-24da896b031a?source=your_stories_page-------------------------------------)
 
 
 ## End-To-End ML/DL Projects - These Took A Lot Of Time And Effort, yes... 
