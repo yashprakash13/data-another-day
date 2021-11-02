@@ -3,6 +3,7 @@
 <h4 align="center">A master repository of all Data Science projects, concepts, tools and resources that I learn and write about on my blog. Updated every week.
 </h4>
 
+
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.6%2C%203.7%2C%203.8%2C%203.9-green?style=for-the-badge"
