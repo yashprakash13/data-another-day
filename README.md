@@ -76,6 +76,7 @@
 | Dockerize an ML Project |  | [Blog](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1?source=your_stories_page-------------------------------------) |
 | Creating A Quick Web App From ML Project With Streamlit |  | [Blog](https://towardsdatascience.com/a-guide-to-streamlit-frontend-for-data-science-made-simpler-c6dda54e3183?source=your_stories_page-------------------------------------) | 
 | Deploying ML App with FastAPI | [Code](https://gist.github.com/yashprakash13/998e7322769ce3257b9f8dae786c0e36) | [Blog](https://towardsdatascience.com/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21?source=your_stories_page-------------------------------------) |
+| The Nice Way to Manage Your Data Science Workflow with Prefect  |  [Code](https://gist.github.com/yashprakash13/05a306ee549b72050a94f5c613c9c25e)  |  [Blog](#)  |  
 
 
 ## Fancy Little Data Thingies To Stimulate The Mind...
