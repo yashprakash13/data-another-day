@@ -86,6 +86,7 @@
 | Making a YouTube Video Comments Dataset With Google's API |  | [Tutorial](https://medium.com/this-code/how-to-make-a-youtube-video-comments-dataset-with-the-googles-python-api-34cf32a14d16?source=your_stories_page-------------------------------------) |
 | A Collection of 26 Datasets I've Used Often While Learning |  | [Blog](https://towardsdatascience.com/26-datasets-for-your-data-science-projects-658601590a4c?source=your_stories_page-------------------------------------) | 
 | A Collection of 31 Datasets For Your Next Data Science Project | |  [Blog](https://towardsdatascience.com/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6?source=your_stories_page----------------------------------------) |
+| A scikit-learn pipelines mini project on Heart Failure Detection Dataset from Kaggle | [Code](https://github.com/yashprakash13/Python-Cool-Concepts/tree/main/sklearn-pipelines) | [Blog](#) 
 
 
 
