@@ -78,6 +78,7 @@
 | Deploying ML App with FastAPI | [Code](https://gist.github.com/yashprakash13/998e7322769ce3257b9f8dae786c0e36) | [Blog](https://towardsdatascience.com/deploying-an-ml-model-with-fastapi-a-succinct-guide-69eceda27b21?source=your_stories_page-------------------------------------) |
 | The Nice Way to Manage Your Data Science Workflow with Prefect  |  [Code](https://gist.github.com/yashprakash13/05a306ee549b72050a94f5c613c9c25e)  |  [Blog](https://towardsdatascience.com/the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2?source=your_stories_page----------------------------------------)  |  
 | The Kaggle way to tune hyperparameters with Optuna | [Code](https://github.com/yashprakash13/Python-Cool-Concepts/tree/main/Optuna_XGBoost_regression_example) | [Blog](#) |
+| The Easy Way to Use Config Files in ML Apps | [Code](https://github.com/yashprakash13/Python-Cool-Concepts/tree/main/Config_YAML_Example) | [Blog](#) |
 
 
 ## Fancy Little Data Thingies To Stimulate The Mind...
