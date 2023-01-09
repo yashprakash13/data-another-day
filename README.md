@@ -116,4 +116,3 @@
 | Insight-The YouTube Comments Analyser | [Repo](https://github.com/yashprakash13/Insight)  |
 | | |
 :star: [@yashprakash13](https://github.com/yashprakash13 '2023-01-09')	
-:star: [@yashprakash13](https://github.com/yashprakash13)	
